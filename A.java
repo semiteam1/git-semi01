@@ -1,6 +1,6 @@
 public Class A() {
     int a = 20;
-    String str = "whatthe"
+    String str = "whatthefxxk"
     public void method1(){
 
     }

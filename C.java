@@ -1,5 +1,5 @@
 public Class C(){
-    int c = 100;
+    int c = 10;
 
     public void method1(){
         char a = '김';

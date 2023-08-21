@@ -8,6 +8,6 @@ public Class C(){
         char g = '이';
     }
     public void method3(){
-        
+        String str = "수정";
     }
 }
